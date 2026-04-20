@@ -26,15 +26,6 @@ Interesado en desarrollo web, Python y buenas prácticas de software.
   <img src="https://img.shields.io/badge/HTML-Básico--Intermedio-black?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-Básico--Intermedio-black?style=flat-square&logo=css3&logoColor=white" />
 </p>
-
----
-
-### 📌 Próximos Proyectos
-- 🌐 **Validador de formularios web**  
-  Implementación de validación segura de inputs (email, contraseñas) enfocada en prevenir errores comunes y mejorar la integridad de los datos  
-
-- 🔐 **Escáner básico de vulnerabilidades web**  
-  Herramienta para detectar posibles fallos como inputs inseguros y vulnerabilidades básicas en aplicaciones web
   
 ---
 
